@@ -19,4 +19,19 @@ Purpose: Joins are essential for combining data from multiple tables in a relati
 
 Deliverable: 1.Queries for INNER, LEFT, RIGHT, and FULL joins 2.Corresponding output datasets
 
-Outputs: INNER JOIN: Matches employees to their departments.
+Outputs: 
+INNER JOIN: Matches employees to their departments.
+
+![image](https://github.com/user-attachments/assets/e3bacabf-316b-403b-9ae2-9780fc3f168a)
+
+LEFT JOIN: Includes employees without departments.
+
+![image](https://github.com/user-attachments/assets/c7a3e49f-64fe-4e6b-bf7f-2b8538c62365)
+
+RIGHT JOIN: Includes departments without employees.
+
+![image](https://github.com/user-attachments/assets/835b6baa-4479-475c-828f-38ecebc7caa2)
+
+FULL JOIN: Combines all rows from both sides.
+
+
