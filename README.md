@@ -34,4 +34,7 @@ RIGHT JOIN: Includes departments without employees.
 
 FULL JOIN: Combines all rows from both sides.
 
+![image](https://github.com/user-attachments/assets/b62c4aa5-9371-4bd6-903e-35dae086948e)
+
+
 
